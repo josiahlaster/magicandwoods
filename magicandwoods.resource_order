@@ -1,0 +1,20 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Animation Curves","order":6,"path":"folders/Animation Curves.yy",},
+    {"name":"Extensions","order":7,"path":"folders/Extensions.yy",},
+    {"name":"Particle Systems","order":8,"path":"folders/Particle Systems.yy",},
+    {"name":"Paths","order":2,"path":"folders/Paths.yy",},
+    {"name":"Sequences","order":5,"path":"folders/Sequences.yy",},
+    {"name":"Shaders","order":3,"path":"folders/Shaders.yy",},
+    {"name":"Frost_Guardian","order":1,"path":"folders/Sprites/Enemies/Frost_Guardian.yy",},
+    {"name":"Tile Sets","order":1,"path":"folders/Tile Sets.yy",},
+    {"name":"Timelines","order":4,"path":"folders/Timelines.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"obj_frost","order":2,"path":"objects/obj_frost/obj_frost.yy",},
+    {"name":"snd_music_game","order":1,"path":"sounds/snd_music_game/snd_music_game.yy",},
+    {"name":"spr_frost_attack","order":2,"path":"sprites/spr_frost_attack/spr_frost_attack.yy",},
+    {"name":"spr_frost_death","order":3,"path":"sprites/spr_frost_death/spr_frost_death.yy",},
+    {"name":"spr_frost_hit","order":1,"path":"sprites/spr_frost_hit/spr_frost_hit.yy",},
+  ],
+}
