@@ -12,18 +12,18 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"d0ff612a-7f54-4630-bd93-e2e18820d6bd","name":"d0ff612a-7f54-4630-bd93-e2e18820d6bd","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"066e120d-a45d-4570-a0bf-ae8f8da08c9f","name":"066e120d-a45d-4570-a0bf-ae8f8da08c9f","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":150,
+  "height":159,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"e33f6fcb-8acb-484f-9518-a676b8632eaf","blendMode":0,"displayName":"default","isLocked":false,"name":"e33f6fcb-8acb-484f-9518-a676b8632eaf","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"81bbac04-b17d-49ff-befc-e8b690baa443","blendMode":0,"displayName":"default","isLocked":false,"name":"81bbac04-b17d-49ff-befc-e8b690baa443","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"spr_hero_idle",
   "nineSlice":null,
-  "origin":9,
+  "origin":7,
   "parent":{
     "name":"Hero",
     "path":"folders/Sprites/Hero.yy",
@@ -69,14 +69,14 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d0ff612a-7f54-4630-bd93-e2e18820d6bd","path":"sprites/spr_hero_idle/spr_hero_idle.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"fe3fc699-5037-4d4b-8ca3-378d53c09c44","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"066e120d-a45d-4570-a0bf-ae8f8da08c9f","path":"sprites/spr_hero_idle/spr_hero_idle.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"443d5c89-e2b8-4ef7-a0b9-047f80d38fc2","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
     "volume":1.0,
-    "xorigin":97,
-    "yorigin":135,
+    "xorigin":96,
+    "yorigin":159,
   },
   "swatchColours":null,
   "swfPrecision":2.525,
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":141,
+  "width":193,
 }

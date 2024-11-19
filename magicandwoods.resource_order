@@ -7,6 +7,7 @@
     {"name":"Sequences","order":5,"path":"folders/Sequences.yy",},
     {"name":"Shaders","order":3,"path":"folders/Shaders.yy",},
     {"name":"Frost_Guardian","order":1,"path":"folders/Sprites/Enemies/Frost_Guardian.yy",},
+    {"name":"zombie","order":2,"path":"folders/Sprites/Enemies/zombie.yy",},
     {"name":"Tile Sets","order":1,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":4,"path":"folders/Timelines.yy",},
   ],
@@ -16,5 +17,8 @@
     {"name":"spr_frost_attack","order":2,"path":"sprites/spr_frost_attack/spr_frost_attack.yy",},
     {"name":"spr_frost_death","order":3,"path":"sprites/spr_frost_death/spr_frost_death.yy",},
     {"name":"spr_frost_hit","order":1,"path":"sprites/spr_frost_hit/spr_frost_hit.yy",},
+    {"name":"Sprite59","order":9,"path":"sprites/Sprite59/Sprite59.yy",},
+    {"name":"Sprite60","order":10,"path":"sprites/Sprite60/Sprite60.yy",},
+    {"name":"Sprite61","order":11,"path":"sprites/Sprite61/Sprite61.yy",},
   ],
 }
